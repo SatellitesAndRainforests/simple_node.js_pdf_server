@@ -1,7 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 
-console.log('Server will listen at : 86.10.40.3:3000');
+console.log('Server will listen at : ##.##.##.##:3000');
 
 http.createServer( (req, res) => {
 
